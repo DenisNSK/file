@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\bin\Debug\PR14sistem.exe.config
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\bin\Debug\PR14sistem.exe
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\bin\Debug\PR14sistem.pdb
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.Form1.resources
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.exe
+C:\Users\Lenovo\source\repos\PR14sistem\PR14sistem\obj\Debug\PR14sistem.pdb
